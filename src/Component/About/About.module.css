@@ -1,0 +1,28 @@
+.about{
+    background-color: black;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about h3{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.about h1{
+    color: white;
+    font-size: 170px;
+    font-weight: 700;
+    line-height: 170px;
+    margin-top: 0px;
+}
+
+
+.about p{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: -80px;
+}
